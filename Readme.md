@@ -65,3 +65,6 @@ Yeh project Web Engineering course kay liye Sir Din Muhammad kay liye banaya gay
 
 ### Tayyari Ka Waqt
 January 2026
+
+### Site Visit
+https://muhammadkhan-dev-code.github.io/hyd-biryani-repo/
