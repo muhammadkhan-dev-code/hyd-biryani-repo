@@ -63,6 +63,4 @@ Yeh project Web Engineering course kay liye Sir Din Muhammad kay liye banaya gay
   - recipes.html
 - **images/** - Image resources ki directory
 
-### Tayyari Ka Waqt
-January 2026
 
